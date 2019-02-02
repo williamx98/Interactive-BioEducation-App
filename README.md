@@ -1,4 +1,4 @@
-# AR Skeleton Puzzle for Bio-Edu
+# Afforable Interactive Bio-Education AR Teaching Tool
 
 This is an augmented reality skeleton puzzle game developed to drive interests in biology through affordable interactive education
 
