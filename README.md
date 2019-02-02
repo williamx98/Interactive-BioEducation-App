@@ -16,7 +16,7 @@ Time spent: 2 days
 * [x] Created an online variant of the puzzle game
 * [x] Created a flash card style quiz through the use of individual markers
 
-<img src='https://github.com/willthexu/codepath_tippy/blob/master/Will%20Xu%20CodePath%20Demo.gif' title='Video Walkthrough' width='250' alt='Video Walkthrough' />
+<img src='https://github.com/williamx98/lifescihacks2019/blob/master/demo.gif' title='Video Walkthrough' width='250' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
