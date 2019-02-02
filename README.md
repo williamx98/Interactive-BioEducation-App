@@ -1,12 +1,12 @@
-# AR Skeleton Puzzle for Bio-Edu
+# Afforable Interactive Bio-Education AR Teaching Tool
 
 This is an augmented reality skeleton puzzle game developed to drive interests in biology through affordable interactive education
 
-Created by: Kathleen Doviken, Marco Guajardo, Paloma June, William X.
+Created by: Kathleen Doviken, Marco Guajardo, Paloma June, William X.  
 
-Abstract Writer, Bio consultant: Paloma June
-Developers: Kathleen Doviken, William X.
-Graphic Designer: Marco Guadjardo
+Abstract Writer, Bio consultant: Paloma June  
+Developers: Kathleen Doviken, William X.  
+Graphic Designer: Marco Guadjardo  
 
 Time spent: 2 days
 
@@ -16,7 +16,7 @@ Time spent: 2 days
 * [x] Created an online variant of the puzzle game
 * [x] Created a flash card style quiz through the use of individual markers
 
-<img src='https://github.com/willthexu/codepath_tippy/blob/master/Will%20Xu%20CodePath%20Demo.gif' title='Video Walkthrough' width='250' alt='Video Walkthrough' />
+<img src='https://github.com/williamx98/lifescihacks2019/blob/master/demo.gif' title='Video Walkthrough' width='250' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
