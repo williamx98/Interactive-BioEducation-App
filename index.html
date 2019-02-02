@@ -11,6 +11,7 @@
     <a-scene embedded arjs='sourceType: webcam; debugUIEnabled: false;'>
         <a-assets>
             <a-asset-item id="animated-asset" src="right_foot.gltf"></a-asset-item>
+            <a-asset-item id="animated-asset2" src="left_foot.gltf"></a-asset-item>
         </a-assets>
           
       <a-marker preset="custom" type="pattern" url="right_foot.patt">
@@ -18,6 +19,15 @@
               position="0 0 0"
               id="animated-model"
               gltf-model="#animated-asset"
+              scale="1 1 1">
+          </a-entity>
+      </a-marker>
+
+      <a-marker preset="custom" type="pattern" url="left_foot.patt">
+          <a-entity
+              position="0 0 0"
+              id="animated-model2"
+              gltf-model="#animated-asset2"
               scale="1 1 1">
           </a-entity>
       </a-marker>
