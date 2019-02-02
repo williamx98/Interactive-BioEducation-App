@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>2</title>
+    <script src="https://aframe.io/releases/0.8.2/aframe.min.js"></script>
+  </head>
+
+  <script src="https://cdn.rawgit.com/jeromeetienne/AR.js/1.6.0/aframe/build/aframe-ar.js"></script>
+  <body style='margin : 0px; overflow: hidden;'>
+    <a-scene embedded arjs='sourceType: webcam; debugUIEnabled: false;'>
+        <a-assets>
+            <a-asset-item id="animated-asset" src="tower.gltf"></a-asset-item>
+            <a-asset-item id="animated-asset2" src="globe.gltf"></a-asset-item>
+        </a-assets>
+          
+      <a-marker preset="custom" type="pattern" url="markerl.patt">
+          <a-entity
+              position="-0.5 0 -0.5"
+              id="animated-model"
+              gltf-model="#animated-asset"
+              scale="3 2 2">
+          </a-entity>
+      </a-marker>
+
+      <a-marker preset="custom" type="pattern" url="terminal.patt">
+        <a-image position="-3 0 0" width="7.32" height="1.15" rotation="-90 0 0" src="skills.jpg"></a-image>
+      </a-marker>
+
+      <a-marker preset="custom" type="pattern" url="github.patt">
+        <a-video position="-1 0 0" rotation="-90 0 0" autoplay loop="true" height="5.34" width="3" src="demo.mp4"></a-video>
+      </a-marker>
+
+      <a-marker preset="custom" type="pattern" url="tie.patt">
+          <a-entity
+              position="-0.5 0 -0.5"
+              id="animated-model2"
+              gltf-model="#animated-asset2"
+              scale="1 1 1">
+          </a-entity>
+        <!-- <a-image position="-1.8 0 0" height="4" width="4.52" rotation="-90 0 0" src="work.jpg"></a-image> -->
+      </a-marker>
+
+      <a-entity camera></a-entity>
+    </a-scene>
+  </body>
+
+</html>
