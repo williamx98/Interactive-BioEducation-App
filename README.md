@@ -2,11 +2,11 @@
 
 This is an augmented reality skeleton puzzle game developed to drive interests in biology through affordable interactive education
 
-Created by: Kathleen Doviken, Marco Guajardo, Paloma June, William X.
+Created by: Kathleen Doviken, Marco Guajardo, Paloma June, William X.  
 
-Abstract Writer, Bio consultant: Paloma June
-Developers: Kathleen Doviken, William X.
-Graphic Designer: Marco Guadjardo
+Abstract Writer, Bio consultant: Paloma June  
+Developers: Kathleen Doviken, William X.  
+Graphic Designer: Marco Guadjardo  
 
 Time spent: 2 days
 
