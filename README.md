@@ -16,7 +16,16 @@ Time spent: 2 days
 * [x] Created an online variant of the puzzle game
 * [x] Created a flash card style quiz through the use of individual markers
 
-<img src='https://github.com/williamx98/lifescihacks2019/blob/master/demo.gif' title='Video Walkthrough' width='250' alt='Video Walkthrough' />
+<p float="left">
+<img src='https://github.com/williamx98/lifescihacks2019/blob/master/mobile.gif' title='Video Walkthrough' width='250' alt='Video Walkthrough' />
+
+<img src='https://github.com/williamx98/lifescihacks2019/blob/master/single.gif' title='Video Walkthrough' width='250' alt='Video Walkthrough' />
+
+<img src='https://github.com/williamx98/lifescihacks2019/blob/master/laptop.gif' title='Video Walkthrough' width='250' alt='Video Walkthrough' />
+
+</p>
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
