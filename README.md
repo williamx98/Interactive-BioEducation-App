@@ -27,8 +27,6 @@ Time spent: 2 days
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
-
 ## License
 
     Copyright 2018 Will Xu
